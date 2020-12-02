@@ -1,0 +1,12 @@
+body {
+	background-color: #FFF;
+	background-image: linear-gradient(rgba(244,240,230,0.2) 70%, rgba(61,60,57,0.2) 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#F4F0E6), color-stop(70%,#F4F0E6), color-stop(100%,#3D3C39)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(244,240,230,0.2) 0%, rgba(244,240,230,0.2) 70%, rgba(61,60,57,0.2) 100%); /* Chrome10+,Safari5.1+ */
+	color: #3D3C39;
+	font-family: "Lato", sans-serif;
+	height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
