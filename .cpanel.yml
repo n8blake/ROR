@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home3/blakeink/public_html/ROR/
-    - /bin/cp- R * $DEPLOYPATH
+    - /bin/cp -R * $DEPLOYPATH
